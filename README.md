@@ -1,5 +1,28 @@
-<h1 align='center'> Hi! :wave:</h1>
+<h1 align='center'>👋 i'm katie!</h1>
+<h3 align='center'>cs @ unc & duke</h3>
+
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      <h3 align='center'>hobbies</h3>
+      <ul>
+        <li>🏐 volleyball</li>
+        <li>📺 anime</li>
+        <li>🍴 hot pot & kbbq</li>
+        <br>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3 align='center'>current projects</h3>
+      <ul>
+        <li><a href="https://github.com/katiecha/autism-chat-bot">autism-chat-bot</a></li>
+        <li><a href="https://github.com/katiecha/computer-vision-nailoong">computer-vision-naiilong</a></li>
+        <br>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 <p align='center'>
-I'm Katie.
+📫 reach me at katiechai21 [at] icloud.com or on <a href="https://www.linkedin.com/in/katie-chai/">LinkedIn</a>
 </p>
-<p align='center'>For enquiries, please email katiechai21 [at] icloud.com or message me on <a href="https://www.linkedin.com/in/katie-chai/">LinkedIn</a>.</p>
