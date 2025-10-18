@@ -1,4 +1,4 @@
-<h1 align='center'>👋 i'm katie!</h1>
+<h2 align='center'>👋 i'm katie!</h2>
 <h3 align='center'>cs @ unc & duke</h3>
 
 <table align="center">
