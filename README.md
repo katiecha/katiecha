@@ -17,6 +17,7 @@
       <ul>
         <li><a href="https://github.com/katiecha/autism-chat-bot">autism-chat-bot</a></li>
         <li><a href="https://github.com/katiecha/computer-vision-nailoong">computer-vision-naiilong</a></li>
+        <li><a href="https://github.com/katiecha/trust-in-illicit-markets">trust-in-illicit-markets</a></li>
         <br>
       </ul>
     </td>
