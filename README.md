@@ -3,12 +3,12 @@
 
 ---
 
-**🎉 what do i do for fun?**
+**🎉 hobbies **
 - 🏐 volleyball
 - 📺 anime
 - 🍴 hot pot & kbbq
 
-**🛠️ what am i working on?**
+**🛠️ current projects **
 - [autism-chat-bot](https://github.com/katiecha/autism-chat-bot)
 - [computer-vision-naiilong](https://github.com/katiecha/computer-vision-nailoong)
 - [trust-in-illicit-markets](https://github.com/katiecha/trust-in-illicit-markets)
