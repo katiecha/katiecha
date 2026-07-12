@@ -1,4 +1,4 @@
-## 👋 i'm katie!
+## 👋 hi! i'm katie!
 ### swe @ greenboard
 
 ### 🎉 hobbies
