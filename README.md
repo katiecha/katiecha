@@ -1,10 +1,10 @@
-<h2 align='center'>👋 i'm katie!</h2>
-<h3 align='center'>swe @ greenboard</h3>
+<h2>👋 i'm katie!</h2>
+<h3>swe @ greenboard</h3>
 
-<table align="center">
+<table>
   <tr>
     <td valign="top" width="50%">
-      <h3 align='center'>hobbies</h3>
+      <h3>hobbies</h3>
       <ul>
         <li>🏐 volleyball</li>
         <li>📺 anime</li>
@@ -13,7 +13,7 @@
       </ul>
     </td>
     <td valign="top" width="50%">
-      <h3 align='center'>current projects</h3>
+      <h3>current projects</h3>
       <ul>
         <li><a href="https://github.com/katiecha/autism-chat-bot">autism-chat-bot</a></li>
         <li><a href="https://github.com/katiecha/computer-vision-nailoong">computer-vision-naiilong</a></li>
@@ -24,6 +24,6 @@
   </tr>
 </table>
 
-<p align='center'>
+<p>
 📫 reach me at katiechai21 [at] icloud.com or on <a href="https://www.linkedin.com/in/katie-chai/">LinkedIn</a>
 </p>
