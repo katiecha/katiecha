@@ -1,15 +1,7 @@
-## 👋 hi, i'm katie!
-### swe @ greenboard
+## 👋 hi, i'm katie — swe @ greenboard
 
-### 🎉 hobbies
-- 🏐 volleyball
-- 📺 anime
-- 🍴 hot pot & kbbq
+🏐 volleyball &nbsp;·&nbsp; 📺 anime &nbsp;·&nbsp; 🍴 hot pot & kbbq
 
-### 🛠️ current projects
-- [jeanch.ai](https://github.com/katiecha/jeanch.ai)
-- [NC ASK (autism-chatbot)](https://github.com/katiecha/autism-chat-bot)
-- [computer-vision-naiilong](https://github.com/katiecha/computer-vision-nailoong)
-- [trust-in-illicit-markets](https://github.com/katiecha/trust-in-illicit-markets)
+🛠️ [jeanch.ai](https://github.com/katiecha/jeanch.ai) &nbsp;·&nbsp; [NC ASK](https://github.com/katiecha/autism-chat-bot) &nbsp;·&nbsp; [computer-vision-naiilong](https://github.com/katiecha/computer-vision-nailoong) &nbsp;·&nbsp; [trust-in-illicit-markets](https://github.com/katiecha/trust-in-illicit-markets)
 
-📫 reach me at katiechai21 [at] icloud.com or on [LinkedIn](https://www.linkedin.com/in/katie-chai/)
+📫 katiechai21 [at] icloud.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/katie-chai/)
